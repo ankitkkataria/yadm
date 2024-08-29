@@ -1,0 +1,10 @@
+---
+"workspace:close_active_tab": ctrl-w
+"workspace:close_tabs_right_active_tab": none
+"workspace:close_other_tabs": ctrl-shift-W
+"pane_group:add_right": alt-s
+"editor:delete_word_left": ctrl-backspace
+"workspace:new_tab": ctrl-t
+"app:reopen_closed_session": ctrl-shift-T
+"editor_view:cut_word_right": none
+"editor_view:cut_word_left": none
